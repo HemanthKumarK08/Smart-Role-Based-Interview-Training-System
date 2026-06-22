@@ -167,21 +167,8 @@ Each interview randomly selects questions, ensuring a unique interview experienc
 
 ## 📁 Project Structure
 
-Smart-Role-Based-Interview-Training-System/
+<img width="1440" height="1268" alt="image" src="https://github.com/user-attachments/assets/29884f18-d611-4d89-88e9-3b2c4cb1440b" />
 
-├── assets/
-├── database/
-│   └── interview.db
-├── admin.py
-├── auth.py
-├── database.py
-├── feedback_engine.py
-├── interview_engine.py
-├── main.py
-├── student.py
-├── utils.py
-├── requirements.txt
-└── README.md
 
 ---
 
