@@ -51,6 +51,8 @@ The system provides a structured interview experience with multiple interview ro
 
 ## 🎯 Interview Workflow
 
+<img width="1440" height="1840" alt="image" src="https://github.com/user-attachments/assets/fa5c7272-1643-4139-89e0-7c8b03f0193c" />
+
 text
 Student Login
       │
