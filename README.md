@@ -53,36 +53,6 @@ The system provides a structured interview experience with multiple interview ro
 
 <img width="1440" height="1932" alt="image" src="https://github.com/user-attachments/assets/fed4ca94-7f3e-450b-8041-5f7a3b706e9d" />
 
-text
-Student Login
-      │
-      ▼
-Select Job Role
-      │
-      ▼
-Select Difficulty
-      │
-      ▼
-Start Interview
-      │
-      ▼
-MCQ Round
-      │
-      ▼
-Technical Round
-      │
-      ▼
-Coding Output Round (Role Based)
-      │
-      ▼
-HR Round
-      │
-      ▼
-Performance Evaluation
-      │
-      ▼
-Detailed Report
-
 
 ---
 
