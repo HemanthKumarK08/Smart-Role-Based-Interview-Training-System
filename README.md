@@ -239,18 +239,6 @@ The administrator can monitor:
 
 ---
 
-## 📸 Screenshots
-
-Add screenshots of:
-
-- Welcome Page
-- Student Login
-- Admin Dashboard
-- Interview Screen
-- Results Page
-
----
-
 ## 🚀 Getting Started
 
 ### Clone the Repository
