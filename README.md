@@ -256,8 +256,7 @@ Add screenshots of:
 ### Clone the Repository
 
 bash
-git clone https://github.com/YOUR_USERNAME/Smart-Role-Based-Interview-Training-System.git
-
+https://github.com/HemanthKumarK08/Smart-Role-Based-Interview-Training-System
 
 ### Navigate to Project
 
