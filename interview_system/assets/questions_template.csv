@@ -1,0 +1,7 @@
+type,difficulty,question,option_a,option_b,option_c,option_d,correct_answer,keywords,ideal_answer
+mcq,Easy,Which tool is commonly used for data visualization?,Git,Tableau,Docker,Nginx,B,,"Tableau is the standard tool for charts and dashboards."
+mcq,Easy,What does SQL primarily manage?,Images,Relational data,Network packets,Audio,B,,"SQL manages structured relational data in tables."
+technical,Easy,What is the difference between mean and median?,,,,,,"average,outlier,central tendency,skew","Mean is the arithmetic average; median is the middle value and is robust to outliers."
+technical,Medium,When would you use a JOIN in SQL?,,,,,,"tables,keys,relationship,combine rows","Use JOIN when you need columns from two or more related tables in one result set."
+hr,,How do you explain insights to non-technical stakeholders?,,,,,,"communication,clarity,business impact,visuals","Use simple language, focus on business outcomes, and support points with clear visuals."
+hr,,Tell us about a data project you are proud of.,,,,,,"analysis,impact,metrics,learning","Describe the problem, your approach, measurable results, and what you learned."

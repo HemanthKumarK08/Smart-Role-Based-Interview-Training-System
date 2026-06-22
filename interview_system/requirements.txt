@@ -1,0 +1,6 @@
+# Job Role-Based Smart Interview Preparation System
+python-dotenv>=1.0.0
+certifi>=2024.0.0
+customtkinter>=5.2.0
+python-docx>=1.1.0
+Pillow>=10.0.0
